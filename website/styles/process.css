@@ -1,0 +1,32 @@
+.process {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #162d5a;
+    color: #fff;
+}
+
+.step {
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+}
+
+.font_size {
+    display: flex;
+    font-size: 30px;
+    transform: translateY(-30px);
+}
+
+.contenier {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    margin-left: 60px;
+    font-size: 17px;
+}
+.solid{
+    display: flex;
+    width: 100%;
+    border: 1px solid #fff;
+}

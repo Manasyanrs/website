@@ -1,0 +1,12 @@
+.banner {
+    width: 100%;
+    background-color: #914332;
+    color: #fff;
+    padding: 30px;
+}
+
+.button_color:hover {
+    background-color: #914332;
+    border-color: #914332;
+    border-bottom: #914332;
+}
