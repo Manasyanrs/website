@@ -12,11 +12,15 @@
     justify-content: center;
 }
 
+.size {
+    width: 500px;
+}
+
 .left_text {
-    width: 100%;
     display: flex;
     text-align: start;
     justify-content: flex-start;
+    align-items: flex-start;
 }
 
 .text_color {

@@ -6,11 +6,16 @@
 }
 
 
-.service_heading_contenier {
-    width: 100%;
-    position: relative;
+.row {
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.text_contenier {
+    width: 800px;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
 }
 
 div>span p {
@@ -21,7 +26,6 @@ div>span p {
     width: 100%;
     display: flex;
     justify-content: flex-end;
-    align-items: flex-end;
 }
 
 .button_style {
@@ -41,7 +45,7 @@ div>span p {
 }
 
 .services_card {
-    width: 100%;
+    width: 300px;
     display: flex;
     flex-direction: column;
     background-color: #fff;

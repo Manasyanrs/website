@@ -7,21 +7,18 @@
 }
 
 .top_part {
-    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
 .links_contenier {
-    width: 100%;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
 }
 
 .product_contenier {
-    width: 100%;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -29,7 +26,6 @@
 }
 
 .navigate_contenier {
-    width: 100%;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -38,7 +34,7 @@
 }
 
 .contact_contenier {
-    width: 100%;
+    width: 150px;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -47,7 +43,6 @@
 }
 
 .subscribe_contenier {
-    width: 100%;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -61,7 +56,7 @@
 }
 
 .subscribe_contenier input {
-    width: 100%;
+    width: 300px;
     height: 30px;
 }
 
